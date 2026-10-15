@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 460" width="400" height="460">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e0c27f"/><stop offset="1" stop-color="#a87f35"/></linearGradient></defs>
+<path d="M200 10 L380 60 V230 C380 340 290 410 200 450 C110 410 20 340 20 230 V60 Z" fill="#5a1a24" stroke="url(#g)" stroke-width="8"/>
+<path d="M200 30 L362 74 V230 C362 330 282 392 200 428 C118 392 38 330 38 230 V74 Z" fill="none" stroke="url(#g)" stroke-width="1.5"/>
+<text x="200" y="210" text-anchor="middle" font-family="'Playfair Display','Georgia',serif" font-style="italic" font-size="190" fill="url(#g)" opacity=".22">&amp;</text>
+<text x="200" y="150" text-anchor="middle" font-family="'Playfair Display','Georgia',serif" font-size="56" font-weight="700" fill="#f6eedd">PAST</text>
+<text x="200" y="215" text-anchor="middle" font-family="'Playfair Display','Georgia',serif" font-style="italic" font-size="56" fill="url(#g)">&amp;</text>
+<text x="200" y="275" text-anchor="middle" font-family="'Playfair Display','Georgia',serif" font-size="50" font-weight="700" fill="#f6eedd">PRESENT</text>
+<path d="M90 300 h220" stroke="url(#g)" stroke-width="1.5"/>
+<text x="200" y="328" text-anchor="middle" font-family="'Playfair Display','Georgia',serif" font-size="14" letter-spacing="4" fill="#e0c27f">ANTIQUES</text>
+<text x="200" y="352" text-anchor="middle" font-family="'Playfair Display','Georgia',serif" font-size="12" letter-spacing="3" fill="#f6eedd">BETHLEHEM</text>
+</svg>
