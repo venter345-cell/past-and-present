@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pastandpresent-bethlehem.netlify.app/sitemap.xml
